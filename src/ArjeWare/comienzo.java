@@ -19,7 +19,7 @@ import static javax.swing.JFrame.EXIT_ON_CLOSE;
 import javax.swing.JOptionPane;
 
 public class comienzo{
-    
+        /*Esto le da comienzo a la app*/
 	public static void main(String[] args) {
 		 Dimension pantalla = Toolkit.getDefaultToolkit().getScreenSize();
                  Toolkit asareje=Toolkit.getDefaultToolkit();
