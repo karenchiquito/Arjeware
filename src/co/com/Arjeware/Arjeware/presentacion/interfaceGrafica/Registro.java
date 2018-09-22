@@ -5,9 +5,9 @@
  */
 package co.com.Arjeware.Arjeware.presentacion.interfaceGrafica;
 
-import Entidades.Dao;
-import Entidades.Usuarios;
-import Entidades.Validaciones;
+import co.com.Arjeware.Arjeware.entity.Entidades.Dao;
+import co.com.Arjeware.Arjeware.entity.Entidades.Usuarios;
+import co.com.Arjeware.Arjeware.entity.Entidades.Validaciones;
 import co.com.Arjeware.Arjeware.presentacion.metodos.utilidades.IconAjustado;
 import co.com.Arjeware.Arjeware.presentacion.metodos.arje.JPasswordFieldHint;
 import co.com.Arjeware.Arjeware.presentacion.metodos.arje.JTextFieldHint;

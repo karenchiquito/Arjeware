@@ -5,10 +5,10 @@
  */
 package co.com.Arjeware.Arjeware.presentacion.interfaceGrafica;
 
-import Entidades.ConsumoManual;
-import Entidades.Dao;
-import Entidades.Sesion;
-import Entidades.ValorTarifas;
+import co.com.Arjeware.Arjeware.entity.Entidades.ConsumoManual;
+import co.com.Arjeware.Arjeware.entity.Entidades.Dao;
+import co.com.Arjeware.Arjeware.entity.Entidades.Sesion;
+import co.com.Arjeware.Arjeware.entity.Entidades.ValorTarifas;
 import co.com.Arjeware.Arjeware.presentacion.metodos.calculos.Calculos;
 import co.com.Arjeware.Arjeware.presentacion.metodos.utilidades.IconAjustado;
 import co.com.Arjeware.Arjeware.presentacion.metodos.arje.JLabelArje;

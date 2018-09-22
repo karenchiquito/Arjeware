@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Entidades;
+package co.com.Arjeware.Arjeware.entity.Entidades;
 
 import co.com.Arjeware.Arjeware.presentacion.metodos.utilidades.Tiempo;
 

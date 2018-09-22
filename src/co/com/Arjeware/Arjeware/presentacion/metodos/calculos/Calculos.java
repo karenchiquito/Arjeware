@@ -5,9 +5,9 @@
  */
 package co.com.Arjeware.Arjeware.presentacion.metodos.calculos;
 
-import Entidades.Sesion;
-import Entidades.ValorTarifa_Energia;
-import Entidades.ValorTarifas;
+import co.com.Arjeware.Arjeware.entity.Entidades.Sesion;
+import co.com.Arjeware.Arjeware.entity.Entidades.ValorTarifa_Energia;
+import co.com.Arjeware.Arjeware.entity.Entidades.ValorTarifas;
 import javax.swing.JOptionPane;
 
 /**

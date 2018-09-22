@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Entidades;
+package co.com.Arjeware.Arjeware.entity.Entidades;
 
 import co.com.Arjeware.Arjeware.presentacion.interfaceGrafica.BDConexion;
 import co.com.Arjeware.Arjeware.presentacion.interfaceGrafica.Conexion_base_datos;
-import SQL.Sql_help;
+import co.com.Arjeware.Arjeware.sql.Sql_help;
 import co.com.Arjeware.Arjeware.presentacion.metodos.utilidades.Tiempo;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -213,7 +213,7 @@ public class Dao {
         ArrayList<Consumos> lista=new ArrayList<>();
         BDConexion c = new BDConexion();
         try{
-            PreparedStatement stm= c.getCon().prepareStatement(SQL.Sql_help.getConsumos(id, idSensor));
+            PreparedStatement stm= c.getCon().prepareStatement(co.com.Arjeware.Arjeware.sql.Sql_help.getConsumos(id, idSensor));
             ResultSet rs = stm.executeQuery();
             while(rs.next()){
                 Consumos consumo = new Consumos();

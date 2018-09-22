@@ -7,9 +7,9 @@ package co.com.Arjeware.Arjeware.presentacion.interfaceGrafica;
 
 import static co.com.Arjeware.Arjeware.presentacion.interfaceGrafica.Inicio_Sesion.cedula;
 import static co.com.Arjeware.Arjeware.presentacion.interfaceGrafica.Inicio_Sesion.clave;
-import Entidades.Dao;
-import Entidades.Sesion;
-import Entidades.Usuarios;
+import co.com.Arjeware.Arjeware.entity.Entidades.Dao;
+import co.com.Arjeware.Arjeware.entity.Entidades.Sesion;
+import co.com.Arjeware.Arjeware.entity.Entidades.Usuarios;
 import co.com.Arjeware.Arjeware.presentacion.metodos.arje.JTextFieldArje;
 import co.com.Arjeware.Arjeware.presentacion.metodos.utilidades.Colores;
 import java.awt.Color;

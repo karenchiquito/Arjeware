@@ -1,4 +1,4 @@
-package Entidades;
+package co.com.Arjeware.Arjeware.entity.Entidades;
 
 public class DatosServicios {
     public static String ano="",estrato="",valorServicio="",valorCargoFijo=""

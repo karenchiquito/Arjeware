@@ -1,8 +1,8 @@
 package co.com.Arjeware.Arjeware.presentacion.interfaceGrafica;
 
-import Entidades.Dao;
-import Entidades.Sesion;
-import Entidades.Usuarios;
+import co.com.Arjeware.Arjeware.entity.Entidades.Dao;
+import co.com.Arjeware.Arjeware.entity.Entidades.Sesion;
+import co.com.Arjeware.Arjeware.entity.Entidades.Usuarios;
 import co.com.Arjeware.Arjeware.presentacion.metodos.facturacion.GenerarWord;
 import co.com.Arjeware.Arjeware.presentacion.metodos.arje.JPasswordFieldHint;
 import co.com.Arjeware.Arjeware.presentacion.metodos.arje.JTextFieldHint;

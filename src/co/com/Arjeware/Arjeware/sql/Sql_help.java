@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package SQL;
+package co.com.Arjeware.Arjeware.sql;
 
 import co.com.Arjeware.Arjeware.presentacion.interfaceGrafica.BDConexion;
-import Entidades.Sesion;
-import Entidades.ValorTarifas;
+import co.com.Arjeware.Arjeware.entity.Entidades.Sesion;
+import co.com.Arjeware.Arjeware.entity.Entidades.ValorTarifas;
 import co.com.Arjeware.Arjeware.presentacion.metodos.utilidades.Tiempo;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
