@@ -5,10 +5,10 @@
  */
 package SQL;
 
-import ArjeWare.BDConexion;
+import co.com.Arjeware.Arjeware.presentacion.interfaceGrafica.BDConexion;
 import Entidades.Sesion;
 import Entidades.ValorTarifas;
-import Utilidades.Tiempo;
+import co.com.Arjeware.Arjeware.presentacion.metodos.utilidades.Tiempo;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 

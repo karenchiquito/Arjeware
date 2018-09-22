@@ -5,10 +5,10 @@
  */
 package Entidades;
 
-import ArjeWare.BDConexion;
-import ArjeWare.Conexion_base_datos;
+import co.com.Arjeware.Arjeware.presentacion.interfaceGrafica.BDConexion;
+import co.com.Arjeware.Arjeware.presentacion.interfaceGrafica.Conexion_base_datos;
 import SQL.Sql_help;
-import Utilidades.Tiempo;
+import co.com.Arjeware.Arjeware.presentacion.metodos.utilidades.Tiempo;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

@@ -5,8 +5,8 @@
  */
 package Entidades;
 
-import ArjeWare.BDConexion;
-import ArjeWare.Conexion_base_datos;
+import co.com.Arjeware.Arjeware.presentacion.interfaceGrafica.BDConexion;
+import co.com.Arjeware.Arjeware.presentacion.interfaceGrafica.Conexion_base_datos;
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;

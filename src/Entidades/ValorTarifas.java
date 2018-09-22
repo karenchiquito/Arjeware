@@ -5,7 +5,7 @@
  */
 package Entidades;
 
-import Utilidades.Tiempo;
+import co.com.Arjeware.Arjeware.presentacion.metodos.utilidades.Tiempo;
 
 /**
  *
