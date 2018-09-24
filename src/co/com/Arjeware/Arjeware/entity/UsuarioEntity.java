@@ -9,25 +9,26 @@ package co.com.Arjeware.Arjeware.entity;
  *
  * @author Sebas
  */
-public class UsuarioComunEntity {
+public class UsuarioEntity {
     private int idUsuario;
     private String nombre;
     private String apellido;
-    private String clave;
-    private String correo;
+    private int idEstrato;
     private int idEmpresaPS;
     private int idPais;
     private int idDepartamento;
     private int idCiudadResidencial;
     private int idTipoDocumento;
-    private String numeroDocumento;
-    private int idEstrato;
-    private String direccion;
-    private String telefonoResidencial;
-    private String telefonoCelular;
     private int idTipoPropiedad;
     private int idNivelResidencial;
     private int idEstado;
+    private String numeroDocumento;
+    private String clave;
+    private String correo;
+    private String direccion;
+    private String telefonoResidencial;
+    private String telefonoCelular;
+    
     
     
     

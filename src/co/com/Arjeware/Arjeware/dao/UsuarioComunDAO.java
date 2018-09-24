@@ -5,7 +5,7 @@
  */
 package co.com.Arjeware.Arjeware.dao;
 
-import co.com.Arjeware.Arjeware.entity.UsuarioComunEntity;
+import co.com.Arjeware.Arjeware.entity.UsuarioEntity;
 
 /**
  *
@@ -13,6 +13,6 @@ import co.com.Arjeware.Arjeware.entity.UsuarioComunEntity;
  */
 public interface UsuarioComunDAO {
     
-    public UsuarioComunEntity registrarUsuarioComun(UsuarioComunEntity u);
+    public UsuarioEntity registrarUsuarioComun(UsuarioEntity u);
     
 }
