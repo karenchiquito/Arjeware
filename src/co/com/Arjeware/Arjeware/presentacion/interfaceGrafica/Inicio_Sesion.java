@@ -230,7 +230,7 @@ public class Inicio_Sesion extends JPanel implements ActionListener,KeyListener{
             cedula=txt_cedula.getText();
             clave=txt_contraseña.getText();
             
-            
+            pp.getContenedor().validarInicioDeSeccion();
             Usuarios usuario= new Usuarios();
             
             usuario.setIdCedula(cedula);

@@ -12,5 +12,6 @@ package co.com.Arjeware.Arjeware.entity;
 public class EmpresaPSEntity {
     private int idEmpresaPS;
     private String nombreEmpresaPS;
+    private String descripcion;
     
 }
