@@ -1,7 +1,7 @@
 
 package co.com.Arjeware.Arjeware.presentacion.interfaceGrafica;
 
-import co.com.Arjeware.Arjeware.entity.Entidades.Sesion;
+import co.com.Arjeware.Arjeware.models.entity.Entidades.Sesion;
 import co.com.Arjeware.Arjeware.presentacion.metodos.utilidades.IconAjustado;
 import co.com.Arjeware.Arjeware.presentacion.metodos.arje.JLabelArje;
 import co.com.Arjeware.Arjeware.presentacion.metodos.arje.JTextFieldHint;

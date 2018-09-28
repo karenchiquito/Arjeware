@@ -65,7 +65,8 @@ public class Creditos extends JPanel implements ActionListener{
                 +"Lina Marcela Vasquez.&emsp; Docente de pensamiento lógico analítico sistémico.<br>"
                 +"John Faber Florez.&emsp; Docente de requisitos y aplicaciones Android.<br>"
                 +"Juan Pérez Pérez.&emsp; Docente de bases de datos y aplicaciones web.<br>"
-                +"Marta Duque &emsp; Asesora de proyecto.");
+                +"Marta Duque &emsp; Asesora de proyecto.<br>"
+                +"Javier Saldarriaga Profesor de ciencias de 9°, promotor de la idea promaria.");
             this.add(txt_profesores);
             
         txt_mentor=new JEditorPaneArje();

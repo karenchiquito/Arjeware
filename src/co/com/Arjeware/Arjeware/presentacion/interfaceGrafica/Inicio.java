@@ -1,5 +1,5 @@
 package co.com.Arjeware.Arjeware.presentacion.interfaceGrafica;
-import co.com.Arjeware.Arjeware.entity.Entidades.Sesion;
+import co.com.Arjeware.Arjeware.models.entity.Entidades.Sesion;
 import co.com.Arjeware.Arjeware.presentacion.metodos.utilidades.IconAjustado;
 import static com.sun.org.apache.xalan.internal.lib.ExsltDatetime.time;
 import static com.sun.org.apache.xalan.internal.lib.ExsltDatetime.time;

@@ -5,7 +5,7 @@
  */
 package co.com.Arjeware.Arjeware.presentacion.interfaceGrafica;
 
-import co.com.Arjeware.Arjeware.entity.Entidades.Dao;
+import co.com.Arjeware.Arjeware.models.entity.Entidades.Dao;
 import co.com.Arjeware.Arjeware.presentacion.metodos.arje.JButtonArje;
 import co.com.Arjeware.Arjeware.presentacion.metodos.utilidades.Fonts;
 import static co.com.Arjeware.Arjeware.presentacion.metodos.utilidades.Fonts.setFonts;

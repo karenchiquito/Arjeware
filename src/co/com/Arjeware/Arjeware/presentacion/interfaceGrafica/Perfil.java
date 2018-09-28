@@ -1,6 +1,6 @@
 package co.com.Arjeware.Arjeware.presentacion.interfaceGrafica;
-import co.com.Arjeware.Arjeware.entity.Entidades.Sesion;
-import co.com.Arjeware.Arjeware.entity.Entidades.Usuarios;
+import co.com.Arjeware.Arjeware.models.entity.Entidades.Sesion;
+import co.com.Arjeware.Arjeware.models.entity.Entidades.Usuarios;
 import co.com.Arjeware.Arjeware.sql.Sql_help;
 import co.com.Arjeware.Arjeware.presentacion.metodos.utilidades.Colores;
 import java.awt.Color;

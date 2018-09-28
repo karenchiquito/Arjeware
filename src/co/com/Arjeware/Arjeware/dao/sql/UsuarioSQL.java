@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package co.com.Arjeware.Arjeware.entity;
+package co.com.Arjeware.Arjeware.dao.sql;
 
 /**
  *
  * @author Sebas
  */
-public class DepartamentoEntity {
-    private int idDepartamento; /*En este caso seria departamento, Estado o provinsia*/
-    private String nombreDepartamento;
-    
+public class UsuarioSQL {
+    public static String registrarUsuario(){
+        return "";
+    }
 }

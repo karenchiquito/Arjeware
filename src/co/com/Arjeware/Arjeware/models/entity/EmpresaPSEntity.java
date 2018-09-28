@@ -3,15 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package co.com.Arjeware.Arjeware.entity;
+package co.com.Arjeware.Arjeware.models.entity;
 
 /**
  *
  * @author Sebas
  */
-public class PaisEntity {
-    private int idPais;
-    private String nombrePais;
-    
+public class EmpresaPSEntity {
+    private int idEmpresaPS;
+    private String nombreEmpresaPS;
+    private String descripcion;
     
 }
