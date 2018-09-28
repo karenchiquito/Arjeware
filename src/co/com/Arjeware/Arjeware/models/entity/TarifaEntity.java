@@ -1,5 +1,5 @@
 
-package co.com.Arjeware.Arjeware.entity;
+package co.com.Arjeware.Arjeware.models.entity;
 
 
 public class TarifaEntity {

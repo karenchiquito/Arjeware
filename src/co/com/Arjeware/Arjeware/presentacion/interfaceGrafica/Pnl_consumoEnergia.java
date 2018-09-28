@@ -5,10 +5,10 @@
  */
 package co.com.Arjeware.Arjeware.presentacion.interfaceGrafica;
 
-import co.com.Arjeware.Arjeware.entity.Entidades.Dao;
-import co.com.Arjeware.Arjeware.entity.Entidades.Sesion;
-import co.com.Arjeware.Arjeware.entity.Entidades.ValorTarifa_Energia;
-import co.com.Arjeware.Arjeware.entity.Entidades.ValorTarifas;
+import co.com.Arjeware.Arjeware.models.entity.Entidades.Dao;
+import co.com.Arjeware.Arjeware.models.entity.Entidades.Sesion;
+import co.com.Arjeware.Arjeware.models.entity.Entidades.ValorTarifa_Energia;
+import co.com.Arjeware.Arjeware.models.entity.Entidades.ValorTarifas;
 import co.com.Arjeware.Arjeware.presentacion.metodos.calculos.Calculos;
 import co.com.Arjeware.Arjeware.presentacion.metodos.utilidades.IconAjustado;
 import co.com.Arjeware.Arjeware.presentacion.metodos.arje.JEditorPaneArje;

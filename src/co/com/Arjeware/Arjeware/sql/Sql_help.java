@@ -6,8 +6,8 @@
 package co.com.Arjeware.Arjeware.sql;
 
 import co.com.Arjeware.Arjeware.presentacion.interfaceGrafica.BDConexion;
-import co.com.Arjeware.Arjeware.entity.Entidades.Sesion;
-import co.com.Arjeware.Arjeware.entity.Entidades.ValorTarifas;
+import co.com.Arjeware.Arjeware.models.entity.Entidades.Sesion;
+import co.com.Arjeware.Arjeware.models.entity.Entidades.ValorTarifas;
 import co.com.Arjeware.Arjeware.presentacion.metodos.utilidades.Tiempo;
 import java.sql.Connection;
 import java.sql.PreparedStatement;

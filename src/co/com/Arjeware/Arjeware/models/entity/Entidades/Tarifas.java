@@ -3,15 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package co.com.Arjeware.Arjeware.entity.Entidades;
+package co.com.Arjeware.Arjeware.models.entity.Entidades;
 
 /**
  *
  * @author Sebas
  */
-public class Registros {
-    private int Consecutivo,ano;
-    private String estrato,valor,valor_cargoFijo,valor_exceso,servicio,mes;
-    private char vigencia;
+public class Tarifas {
     
 }

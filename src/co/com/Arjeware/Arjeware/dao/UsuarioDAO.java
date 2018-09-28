@@ -5,15 +5,14 @@
  */
 package co.com.Arjeware.Arjeware.dao;
 
-import co.com.Arjeware.Arjeware.models.entity.TarifaEnergiaEntity;
-import java.util.ArrayList;
+import co.com.Arjeware.Arjeware.models.entity.UsuarioEntity;
 
 /**
  *
  * @author Sebas
  */
-public interface TarifaEnergiaDAO {
+public interface UsuarioDAO {
     
-    public ArrayList<TarifaEnergiaEntity> obtenerTarifas();
+    public boolean registrarUsuario(UsuarioEntity u);
     
 }
